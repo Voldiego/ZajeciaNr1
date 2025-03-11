@@ -6,4 +6,4 @@ pierwsze Repozytorium na zajęciach zarządzania zmianą kontroli wersji
 # zmiana nr1
 
 # nagłówek 2
-# nagłówek 3
+# nagłówek nr3
