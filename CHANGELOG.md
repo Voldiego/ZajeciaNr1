@@ -1,2 +1,2 @@
-version 0.0.1 (2025)
+version 1.0.0 (2025)
 --dodano plik changelog
