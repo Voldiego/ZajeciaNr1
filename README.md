@@ -7,4 +7,7 @@ pierwsze Repozytorium na zajęciach zarządzania zmianą kontroli wersji
 
 # nagłówek 2
 # nagłówek nr3
-#bigos bigos bigos
+# bigos bigos bigos
+
+
+# instrukcja obsługi
